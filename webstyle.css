@@ -1,48 +1,47 @@
-.link
-{
-    text-decoration:none;
-    color: black;
+*{
+    font-family: 'Itim', cursive;
 }
-.divcls
-{
-    width: 50%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
-    float: left;
-    height: 60px;
+
+.link{
+    text-decoration: none;
     text-align: center;
-    
-    background-color: brown;
-    
+    padding: 10px;
+    font-size:large;
+    margin: 25px;
+    color: white;
+
 
 }
-.cclass
-{
-    width: 50%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
-    float: right;
-    height: 60px;
-    text-align: center;
-    background-color: aqua;
-    
-}
-   
 
 .div1
 {
-    background-color: rgb(34, 40, 218);
+ height: 70px;   
+ background-color: black;
+ padding-top: 20px;
+
 }
-#name
+.div2
 {
-    font-family:cursive;
-
-}
-
-.div2{
+    text-align: center;
     padding-top: 200px;
-    background-color: rgb(46, 165, 42);
-}
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    height:300px;
 
-li{
-    display: inline;
-    text-decoration: none;
+}
+.div3
+{
+    background:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    height: 600px;
+    margin: 0px;
+}
+#img
+{
+    height: 200px;
+    width:auto;
+    
+    
+}
+.div5
+{
+    background-color:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 }
