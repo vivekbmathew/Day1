@@ -1,24 +1,48 @@
 .link
 {
     text-decoration:none;
+    color: black;
 }
 .divcls
 {
     width: 50%;
-    background-color:aqua;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
     float: left;
+    height: 60px;
+    text-align: center;
+    
+    background-color: brown;
+    
 
 }
 .cclass
 {
     width: 50%;
-    background-color:brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
     float: right;
+    height: 60px;
+    text-align: center;
+    background-color: aqua;
+    
 }
    
+
 .div1
 {
-    
+    background-color: rgb(34, 40, 218);
+}
+#name
+{
+    font-family:cursive;
 
-    
+}
+
+.div2{
+    padding-top: 200px;
+    background-color: rgb(46, 165, 42);
+}
+
+li{
+    display: inline;
+    text-decoration: none;
 }
